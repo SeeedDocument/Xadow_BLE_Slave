@@ -123,11 +123,11 @@ void boot(void)
 }
 ```
 
-- Select a serial tool to send and receive data. Here we use the Sscom32E. BaudRate should be 38400.
+- Select a serial tool to send and receive data. Here we use the [Sscom32E](https://github.com/SeeedDocument/Xadow_BLE_Slave/raw/master/res/Sscom32E.zip). BaudRate should be 38400.
 
 ![](https://github.com/SeeedDocument/Xadow_BLE_Slave/raw/master/img/Open_serial_tool.jpg)
 
-- Get your Phone device ready and install “BlueSPP” APP and launch the BlueSPP. Remember that your device should be Bluetooth 4.0.
+- Get your Phone device ready and install [“BlueSPP” APP](https://github.com/SeeedDocument/Xadow_BLE_Slave/raw/master/res/BlueSPP_V4.0.zip) and launch the BlueSPP. Remember that your device should be Bluetooth 4.0.
 
 ![](https://github.com/SeeedDocument/Xadow_BLE_Slave/raw/master/img/Open_Bluetooth.jpg)
 
